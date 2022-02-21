@@ -8,6 +8,7 @@ namespace test_for_group
         {
             Console.Write("Hello Teacher!\n");
             Console.Write("We are group3.");
+            Console.Write("I am pan chry!.");
             Console.ReadKey();
         }
     }
